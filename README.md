@@ -1,11 +1,14 @@
 ### Hey 👋🏽, Soy Antonio Carvajal
 
 <br/>
+<a href="https://gitlab.com/antonio.carvajal" target="_blank">
+  <img align="left" alt="Pentarix1996's GitLab" width="22px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
+</a>
 <a href="https://www.linkedin.com/in/antonio-carvajal-sansegundo/" target="_blank">
-  <img align="left" alt="DalexHD's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Pentarix1996's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/mercutos" target="_blank">
-  <img align="left" alt="DalexHD's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Pentarix1996's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br/>
 <br/>
