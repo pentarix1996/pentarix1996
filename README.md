@@ -21,7 +21,7 @@ Hola, Soy Antonio Carvajal, un desarrollador Full Stack 🚀 de España, Actualm
 
 - 👨🏽‍💻 Estoy actualmente trabajando en Axians España
 - 👨‍🎓 Actualmente soy estudiante de 42 Madrid
-- 🌱 Estoy aprendiendo nuevas tecnologías (Java Spring)
+- 🌱 Estoy aprendiendo nuevas tecnologías
 - 🧩 Me encantan los rompecabezas
 - 💬 Sentiros libres de preguntadme lo que queraís, Estaría encantado de ayudar;
 - 📫 Podeís contactarme directamente por correo: antonio.carva.96@gmail.com;
