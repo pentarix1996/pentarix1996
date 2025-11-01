@@ -46,7 +46,7 @@ Hola, Soy Antonio Carvajal, un desarrollador Full Stack 🚀 de España, Actualm
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 **Cita Personal:**  
-La programación no es solo código. Si no también cambiar la forma en la que pinesas para solucionar los problemas
+La programación no es solo código. Si no también cambiar la forma en la que piensas para solucionar los problemas
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=pentarix1996&repo=acarvaja">
 
