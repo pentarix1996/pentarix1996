@@ -1,58 +1,60 @@
-### Hey 👋🏽, Soy Antonio Carvajal
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=35ce8d&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Antonio+Carvajal;Software+Engineer+%F0%9F%9A%80;Backend+Specialist;Optimization+%26+Algorithms..." alt="Typing SVG" />
+
+  <br/>
+
+  <a href="https://gitlab.com/antonio.carvajal" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  </a>
+  <a href="https://www.linkedin.com/in/antonio-carvajal-sansegundo/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:antonio.carva.96@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+</div>
 
 <br/>
-<a href="https://gitlab.com/antonio.carvajal" target="_blank">
-  <img align="left" alt="Pentarix1996's GitLab" width="22px" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" />
-</a>
-<a href="https://www.linkedin.com/in/antonio-carvajal-sansegundo/" target="_blank">
-  <img align="left" alt="Pentarix1996's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/mercutos" target="_blank">
-  <img align="left" alt="Pentarix1996's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+
+### 👨‍💻 About Me
+
+I am a **Software Engineer specialized in Backend Development** based in Spain. I focus on writing efficient code, architecture, and solving complex algorithmic problems.
+
+- 💼 I am currently working at **T2O**.
+- 🎓 I am an **Alumni of 42 Madrid** (Fundación Telefónica).
+- 🌱 I am deeply interested in **Low-level programming, Optimization & Game Dev**.
+- 🧩 I love solving logical puzzles and challenges.
+- 💬 Feel free to reach out; I'm always open to discussing technology!
+
+---
+
+### 🚀 Featured Projects
+
+Here are some of my most relevant repositories.
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Mercu Language](https://github.com/pentarix1996/mercu_language)** | A custom programming language implementation. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[Neon Defense](https://github.com/pentarix1996/neon-defense)** | A defense game project. | ![GameDev](https://img.shields.io/badge/GameDev-HTML/CSS/JS%2FC%23-blue?style=flat-square) |
+| **[Pattern SOM](https://github.com/pentarix1996/pattern_SOM)** | Recurso educativo para implementar los patrones Strategy, Observer y Memento con Python. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[Learn Numba](https://github.com/pentarix1996/learn_numba)** | Exploration of Numba for high-performance Python code optimization. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[My Godot Game](https://github.com/pentarix1996/my_godot_game_public)** | A public repository showcasing game development with Godot. | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) |
+
+---
+
+### 📊 GitHub Stats
 <br/>
+<div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats-ten-cyan.vercel.app?user=pentarix1996&mode=weekly)](https://git.io/streak-stats)
+</div>
+
 <br/>
 
-Hola, Soy Antonio Carvajal, un desarrollador Full Stack 🚀 de España, Actualmente, Estoy encuentro estudiando en escuela 42 Madrid de fundación telefónica. Soy un apasionado de las nuevas tecnologías y el desarrollo de parte de Back-end
+> *"Programming is not just about code. It's about changing the way you think to solve problems."*
 
-  <img align="right" alt="GIF" height="240" src="https://i.pinimg.com/originals/41/9c/f1/419cf18cb1cc65b08863e153a98b86ea.gif" />
-  
-**Mi estado actual:**
-
-- 👨🏽‍💻 Estoy actualmente trabajando en Axians España
-- 👨‍🎓 Actualmente soy estudiante de 42 Madrid
-- 🌱 Estoy aprendiendo nuevas tecnologías
-- 🧩 Me encantan los rompecabezas
-- 💬 Sentiros libres de preguntadme lo que queraís, Estaría encantado de ayudar;
-- 📫 Podeís contactarme directamente por correo: antonio.carva.96@gmail.com;
-
-**Languages and Tools:**  
-
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="25" src="https://repository-images.githubusercontent.com/24195339/87018c00-694b-11e9-8b5f-c34826306d36"></code>
-<code><img height="25" src="https://camo.githubusercontent.com/86dafd728b94c0e3c8f19a7295e87df678ed6751/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="25" src="https://avatars3.githubusercontent.com/u/13841574"></code>
-<code><img height="25" src="https://cdn.softwaretestinghelp.com/wp-content/qa/uploads/2019/12/UnitTest-Logo.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="25" src="https://rosshendersonsblog.files.wordpress.com/2018/08/oracle-sql.png"></code>
-<code><img height="25" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-**Cita Personal:**  
-La programación no es solo código. Si no también cambiar la forma en la que piensas para solucionar los problemas
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pentarix1996&repo=acarvaja">
-
-![Pentarix1996 github stats](https://github-readme-stats.vercel.app/api?username=pentarix1996&show_icons=true&hide_border=true)
-
-<p align="center"> 
-  Contador de visitas<br>
-  <img src="https://profile-counter.glitch.me/pentarix1996/count.svg" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pentarix1996&style=flat-square&color=blueviolet" alt="Profile Counter" />
+</div>
